@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="486.081" height="705.662" viewBox="0 0 486.081 705.662">
+  <g id="Group_10" data-name="Group 10" transform="translate(-516.21 -81.011)">
+    <g id="Group_4" data-name="Group 4">
+      <g id="Group_2" data-name="Group 2">
+        <path id="Path_4" data-name="Path 4" d="M1002.291,309.63q0,41.19-12.3,76.7A206.662,206.662,0,0,1,969.546,429a230.8,230.8,0,0,1-34.868,42.672q-66.6,66.6-164.217,66.576h-64.4v-84.8h64.4q61.192,0,100.9-40.8a138.714,138.714,0,0,0,16.891-21.089q22.818-34.82,22.817-81.935,0-51.933-28.645-89.1a141.428,141.428,0,0,0-11.063-12.89q-39.783-41.857-100.9-41.833-61.191,0-100.9,41.833A136.6,136.6,0,0,0,634.2,275.7h24.052L587.23,398.677,516.21,275.7h25.632q9.854-74.676,64.4-129.25,66.527-65.415,164.216-65.439,97.641,0,164.217,65.439Q1002.316,213.05,1002.291,309.63Z" fill="#fff"/>
+      </g>
+      <g id="Group_3" data-name="Group 3">
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="22.943" cy="22.943" r="22.943" transform="translate(736.316 679.943)" fill="#fff"/>
+        <path id="Path_5" data-name="Path 5" d="M759.25,619.1a83.787,83.787,0,1,0,83.813,83.762A83.784,83.784,0,0,0,759.25,619.1Zm0,142.436a58.649,58.649,0,1,1,58.674-58.674A58.639,58.639,0,0,1,759.25,761.534Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Path_6" data-name="Path 6" d="M771.613,300.932a8.768,8.768,0,1,1-8.77,8.767A8.773,8.773,0,0,1,771.613,300.932Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_6" data-name="Group 6">
+        <path id="Path_7" data-name="Path 7" d="M861.487,400.481,765.919,312.97l8.054-8.054Z" fill="#fff" fill-rule="evenodd"/>
+        <path id="Path_8" data-name="Path 8" d="M862.826,401.82l-10.356-2.3,8.054-8.054Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <path id="Path_9" data-name="Path 9" d="M771.613,222.7l5.694,86.917H765.919Z" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_10" data-name="Path 10" d="M771.613,217.63l5.694,8.95H765.919Z" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
